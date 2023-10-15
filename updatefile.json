@@ -4,20 +4,6 @@
 
 {
 
-         "name": "AIS-THAIPRO.TH-01",
-         "url": "CYUZcWaNS3oYjzr+vx007Y5jAq631FdedtiXSdOYvBJtO8X3rtAuD8qUUGZCfTMr0FPh+A+HWBqlKYIMyHD5mRgXbkUJlFz7OKCFpSTAnjxaGzxSjmxRfg=="
-
-      },
-
-{
-
-         "name": "AIS-THAIPRO.TH-02",
-         "url": "jd0hFjCpK27dtLG8+GvJFD++ASGWrtXi/CHtn6Ww0TIuDNWjSiANzS5v8hspXD1t5YMNUN5row/cqkpUusKXAW6i54F7BGkVvBKsMeDs2Yo7QIpYMrTIcA=="
-
-      },
-
-{
-
          "name": "DTAC-THAIPRO.TH-01",
          "url": "E9Kj/WTyuFJu2scbUifm8vRwdNUYUC/5rR0mwF524dd6fXSjSDSzfgyVy3AJfgC8nbYc2oQZ8K+RNvCMjl9f1dMl02nWbkFkCjRjR+/12MqFtab/SDb5/A=="
 
@@ -45,12 +31,6 @@
        },
 
 {
-         "name": "AIS-THAIPRO.TH-03",
-         "url": "yj5DujQHicG6MoStZfo3y+orhN0a+ckvy2edtT9IDBqjuCf4WrDhl2JL5wTsdd40iqDWaEt7C7O4eo0tnqRulS9pduMFLFVJtzj8Y2qCe6aebUA4F6b/vw=="
-
-      },
-
-{
 
          "name": "TRUE-THAIPRO.TH-03",
          "url": "xrnI0cvFyKAqv1iwn+kNxQLDq06AA4XY3iFvHo8o8MycIg29khYnxgFZN3x0Oc/XW0tEsZO2scXraiglyBDR2Dd8Y1cUbXSn2V9k5z1nRcpCpEAvbrSOlg=="
@@ -62,12 +42,6 @@
       
          "name": "DTAC-THAIPRO.TH-03",
          "url": "jlXcALAHVBdsGH6Q6uxkN0IeK1ESi+LKfDwQOAKmbdcjNurnjNNM5LNifD5uORA3jc9u9J9sS4tKfosTr0VRjSh0pZbU3QF62bn/hrZDMfQI6XNKIYre7w=="
-
-      },
-
-{
-         "name": "AIS-THAIPRO.TH-04",
-         "url": "173XKR6XrpDpsm6ik5RjbzN/esFyyScsRkojJZvy0SvV8f6CeYIAEzRD6FCBS3J/dj3zr5NITHeea6JOraPTD9Hg5z/hJS8WNvO4gyIJLyl3QjaWGry/mQ=="
 
       },
 
@@ -86,11 +60,6 @@
       },
 
 {
-         "name": "AIS-THAIPRO.TH-05",
-         "url": "IfI4htEoxwgu5yfhTXx7e1Fe93cFrder+Vq1r6DLrGlCWfepXBVEjjaXLwzax6Gs33ZRi5Fp2+Eetner5gFb8Kah4oHJJcY0Fo4gO7HrxskJK5W01TJK6w=="
-      },
-
-{
 
          "name": "TRUE-THAIPRO.TH-05",
          "url": "UbQ37Ptk1CMoGAIHMy+y8mXeTNrZvUo6ePNnVk5m6LNfTAqbiW9+PZwaMHsstYiAZkZDP0EL5MuhYM88bgXZIvzoQ6R7TlWkHb8Jf6luc+B3n7DSjzhA9w=="
@@ -101,11 +70,6 @@
          "name": "DTAC-THAIPRO.TH-05",
          "url": "vM1q5Sz6A/3SvrhS++/1p0+Y4H++u2mRw0k7ffD+2iWZaManqSAS7pg6ZZCi/sM8d2ICum63btzp/7miq8xzsS4epYif9aIHykv9MkZpAckhONIbs3QQOQ=="
 
-      },
-
-{
-         "name": "AIS-THAIPRO.TH-06",
-         "url": "w0MLltuhMC2x16je6QEj2BC9B1Jp3N/OIDFj4swvJFrMQ0AlMLgRhOMv8j5bGCX8fRMmulsQcnELll3AiPoOAc2R/eLiv/gBmYt4/VmHNGuy2b5UN+JKFQ=="
       },
 
 {
@@ -122,11 +86,6 @@
       },
 
 {
-         "name": "AIS-THAIPRO.TH-07",
-         "url": "vUKfUk8NFTUatcVMt8+WDeS7oFsr4E6qhKokypcfzdYVDWEqD0r+XUBMOfPHPNT6rNTF8mWZUjuKlWr/kKw0AV5wjqfkWmVvNxu0i4c2tNA8PqT+iABNVA=="
-      },
-
-{
 
          "name": "TRUE-THAIPRO.TH-07",
          "url": "eACsRAp2i0MIi0uGiP/pmupJYBPFB6/bj3BZQ8aN638OuKpQ1S0HKLz0TQFHq/5NS/KQOfml9AAOLwiFpViov5dBshiO9d0YJWn2UOKfqaVK26IhqdNZLA=="
@@ -137,11 +96,6 @@
          "name": "DTAC-THAIPRO.TH-07",
          "url": "voSbBOTM+NZc37angEoFsiwBRzoieJx4Z2+ergoOXqtcXYhR6VH7D4F07AP2iRtME+sJ3EydIGG2hWI/PVK0UkWSHDsT1qDdSBU7UK2qTNJBEDF3dzascA=="
 
-      },
-
-{
-         "name": "AIS-THAIPRO.TH-08",
-         "url": "I+3AsxInfpeWJT2hJHegUNQ7n7hksGeVlVGVNQZRuk8VtgW5Q9Vl61C3V+A1/MGpnVS9qByzynOF2aQTsJ73CMYb0tTcCIbn0Bj/cUUib9ME/N4nXPpaaw=="
       },
 
 {
@@ -158,11 +112,6 @@
       },
 
 {
-         "name": "VIP-ZCOM1-AIS",
-         "url": "NVvpR+vhrFNZIN7grY/h8syFmkpKmJ32sigBBNYdSxLOKY6Ryh1EH+DspYpeFsPkRYDJUcYLHQtV9DA63uL5p0MzRt3LG1eui4sXFj9O0yrZBt4r"
-      },
-
-{
 
          "name": "VIP-ZCOM1-TRUE",
          "url": "mbi9SVoiHh9zoUixw8q9pR8lfHzb0QkD9zG2VOf7ohrcLMxEgsnFpWqmZwoQmHeDXXPcbCW6ghqFL2HOwohbcQrYrW6Hve5bEw+Uk05PwwUHn9mL"
@@ -173,11 +122,6 @@
          "name": "VIP-ZCOM1-DTAC",
          "url": "iQa417UCoqkoYptng30OCiNQxaIjmQQSyclRw7SWp+ISjz5rIHG2Ry0ImL5IUW0Vz2xBZ0GwGia8MXAhsvILTFnMHsM4pTMXGsCj9wroiq2mZXKQ"
 
-      },
-
-{
-         "name": "VIP-READYIDC1-AIS",
-         "url": "HKyxY5nHB8IN2ZZQotWd7W0BTVaaQRHHERSjd2dJRIXesWfKYfDhHRV6003/Rndpn/oZ7zOcQ7lrZU/ngl3gqQ4ZxZW3xNNFQgEKUZ6PltMckLGRsH/PNg=="
       },
 
 {
@@ -200,7 +144,7 @@
 🙏ขอขอบคุณที่เลือกใช้บริการเเอป thaipro-vpn
 
 🛑รายละเอียดการอัปเดตไฟล์เวอร์ชั่น (ล่าสุด)🔥
-➕เพิ่มเซิร์ฟเวอร์ ✨vip 🇹🇭readyidc
+🔛เปิดให้เซิร์ฟเวอร์ 🆓FREE 🇹🇭TH-02 กลับมาใช้งานปกติ
 
 🔖ราคาเซิร์ฟเวอร์ vip
 •zcom1 เดือนละ 80 บาท *ใช้งานหนัก*
@@ -217,5 +161,5 @@
 
 🙏ขอขอบคุณนักพัฒนาเเอปผูัใจดี Saeng",
 "title":"อัปเดตเวอร์ชั่นใหม่ ไฉไลกว่าเดิม " ,
-  "version": 14
+  "version": 15
 }
